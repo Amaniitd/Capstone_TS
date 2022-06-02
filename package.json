@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "ts-loader": "^9.3.0"
+    "ts-loader": "^9.3.0",
+    "ts-node": "^10.8.0"
   }
 }
