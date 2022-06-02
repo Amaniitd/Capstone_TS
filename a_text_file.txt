@@ -1,0 +1,10 @@
+json-server --watch db.json -d 2000
+
+to run webpack: just type webpack in the terminal
+
+
+install ts-node
+
+node install ts-node
+
+webpack --watch
